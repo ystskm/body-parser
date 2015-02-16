@@ -1,4 +1,4 @@
-# body-parser
+# body-parser-extendable
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -34,7 +34,7 @@ Other body parsers you might be interested in:
 ## Installation
 
 ```sh
-$ npm install body-parser
+$ npm install body-parser-extendable
 ```
 
 ## API

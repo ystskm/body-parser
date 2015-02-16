@@ -1,8 +1,9 @@
 {
-  "name": "body-parser",
+  "name": "body-parser-extendable",
   "description": "Node.js body parsing middleware",
-  "version": "1.12.0",
+  "version": "1.0.0",
   "contributors": [
+    "Yoshitaka Sakamoto <sakamoto@liberty-technology.bzi>",
     "Douglas Christopher Wilson <doug@somethingdoug.com>",
     "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)"
   ],
